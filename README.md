@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Surface plane
  
 </details>
 
@@ -37,10 +37,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.weekday.com/en_eur/index.html
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/dwww.weekday.com_en_eur_index.html(iPhone X)" width="375px" alt="De homepage van Weekday.com">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
@@ -57,6 +58,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  
+  - Apples screenreaders maken gebruik van een eigen vorm van gesture bases navigation. Daardoor wordt de gebruikerservaring compleet op z'n kop gegooid.
+  - Mijn gekozen website maakt veel gebruik van alt en de images' content wordt beschreven.
+  - Veel "Normale Gestures" werken op een compleet andere manier dan verwacht. 
+  - Om te scrollen moet je eerst de scrollbar vinden met de screenreader, om vervolgens te dubbel tappen langs het scherm om zo over de gehele pagina te scrollen.            
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
@@ -66,6 +72,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+  De weekday maakt voornamelijk gebruik van een witte rand of zwarte rondom het geselecteerde html element, ook waarneer een afbeelding achter bijv de butten s
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
