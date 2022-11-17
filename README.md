@@ -41,7 +41,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/www.weekday.com_en_eur_index.html(iPhone X)" width="375px" alt="De homepage van Weekday.com">
+  <img src="readme-images/www.weekday.com_en_eur_index.html(iPhone X).png" width="375px" alt="De homepage van Weekday.com">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
