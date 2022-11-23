@@ -125,10 +125,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1  (Mats)    | student 2  (Robin)        | student 3 (Aya)   | student 4 (Mats)                |
+  | student 1  (Marc)    | student 2  (Robin)        | student 3 (Aya)   | student 4 (Mats)                |
   | ---            | ---                | ---          | ---                             |
-  | dit bespreken  | en dit             | en ik dit    | Een plan opstellen ivm huiswerk |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker                |
+  | HTML/CSS feedback  | en dit             |Kun je grid, flexbox en position door elkaar gebruiken? Of kan het ook anders?     | Een plan opstellen ivm huiswerk |
+  | en dat ook nog | dit als er tijd is | Is mijn HTML goed uitgewerkt? Of wat mist er nog of kan beter? | dit wil ik zeker                |
   | ...            | ...                | ...          | ...                             |
 
 
