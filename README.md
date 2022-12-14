@@ -119,7 +119,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had nog wat moeite met opstarten en het volgen van de huiswerk opdrachten, ik heb vooral gekeken naar mijn keuze van website.
 
 
   ### Agenda voor meeting
@@ -134,7 +134,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-
+DE meeting verliep erg soepel, Ik merk dat ik ook erg veel baat heb bij bij de antwoorden op de vragen van mijn teamleden.
   - punt 1
   - punt 2
   - nog een punt
@@ -152,21 +152,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik ben nu eindelijk begonnen met het opsetten van mijn website, gaat voor nu erg soepel en heb al redelijk wat progressie gemaakt met de eerste pagina. Ook volg ik de huiswerk opdrachten een stuk meer en snap ik deze erg snel.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | student 1  Marc    | student 2 Aya         | student 3 Robin    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | Feedback op zijn code  | Je kan de content veranderen zoals bijvoorbeeld een hamburgermenu img naar een kruisje door 'content: url()' in je css te zetten. Alleen hoe doe je dat als je geen url hebt maar een svg afbeelding?            | Code nakijken ivm responsiveness     | Vraag rondom het gebruik van background images.  |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  DE meeting ging ook weer erg soepel. Eenmaal wanneer wij in de meeting zaten kwamen er wel een stuk meer specifieke vragen naar boven naar het stellen van de eerste vraag, ik leerde er dus ook erg veel van.
 
   - punt 1
   - punt 2
@@ -222,22 +222,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Enorm veel progressie gemaakt met het maken van mijn website en ben aan de tweede pagina begonnen, ook wat nieuwe dingen geleerd zoals de scrollsnap property.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | student 1 Marc     | student 2  Aya        | student 3  Robi  | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Punt 1 Snel door mijn code website heen kijken. Punt2 Vragen of mijn website voldoende variatie heeft. Punt 3 Mag ik var gebruiken als container rondom tags die wel syntax hebben.  | Aya was helaas ziek | 1. mag ik een class gebruiken om een h1 visually hidden te maken    | Hoe maak een side scroll container, en feedback op code    |
+  | en dat ook nog | dit als er tijd is |2. responsiveness op mijn 2e pagina werkt niet helemaal
+3. is er genoeg variatie voor het service deel of moet ik nog meer toevoegen | dit wil ik zeker |
+  | ...            | ...                |4. waarom ik maar op 1 button kan klikken en de andere buttons dan niet werken terwijl ze hetzelfde doen       | ...              |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
+Once again erg veel geleerd, Vasilis ging voor Robin wat javascript maken en liet een for while functie zien. erg leerzaam. Ook heb ik meer geleerd over de scrollsnap 
+CSS propery
   - punt 1
   - punt 2
   - nog een punt
