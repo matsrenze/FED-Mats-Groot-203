@@ -193,27 +193,29 @@ DE meeting verliep erg soepel, Ik merk dat ik ook erg veel baat heb bij bij de a
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  - Tekst van het hamburger menu wordt nogsteeds opgelezen ook al staat het niet in de viewport.
+  - Screenreader blijft heel lang hangen bij de nav.
+  
+  Oplossing: Meer onderzoek doen naar werking screenreader en hoe je de code op het gebruik daarvan richt.
+  
+  
+  er een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  In mijn mening goed te gebruiken. Er is zeker een verbetering rondom de focus state van buttons. en rondom normale dom elementen heeft de zwarte border radius 
+  iets meer ademruimte.
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+NAar mmijn mening een algehele verbetering al helemaal op de zogeheten detail pagina. Ik heb de UI een stuk simpler gemaakt met grote afbeeldingen en iets meer nadruk op gestured based navigation ipv click and drag.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ - Letters zijn soms nog wat klein en slecht te lezen.
+  
+  oplossing: Lettergrote omhoog
 
 </details>
 
