@@ -209,7 +209,7 @@ DE meeting verliep erg soepel, Ik merk dat ik ook erg veel baat heb bij bij de a
 
 
   #### Motoriek (shocks, elastiekjes)
-NAar mmijn mening een algehele verbetering al helemaal op de zogeheten detail pagina. Ik heb de UI een stuk simpler gemaakt met grote afbeeldingen en iets meer nadruk op gestured based navigation ipv click and drag.
+Naar mijn mening een algehele verbetering, zeker op de zogeheten detail pagina. Ik heb de UI een stuk simpler gemaakt met grote afbeeldingen en iets meer nadruk op gestured based navigation ipv click and drag.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
@@ -289,8 +289,8 @@ CSS propery
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
+  1. ChatGPT (https://chat.openai.com/chat)
+  2. Robert & Walter.
   3. ...
 
 </details>
