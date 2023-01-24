@@ -263,13 +263,20 @@ CSS propery
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/Homefinish.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/Detailsfinish.png" width="375px" alt="uitomst opdracht 1">
 
 
-  ### Dit ging goed/Heb ik geleerd: 
+  ### Dit ging goed/Heb ik geleerd:
+  
+  Ik heb vooral geleerd over geavanceerde CSS selectoren zoals deze : li:nth-of-type(n+2):nth-of-type(-n+4). 
+  met deze selector kan items tussen de tweede en de 4de list item selecteren.
+  
+  Ook heb ik geleerd over de scroll snap property waarmee mee je makkelijk scrollbars met images maakt.
+  
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/Detailsfinish.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
