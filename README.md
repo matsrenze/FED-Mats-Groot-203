@@ -65,29 +65,34 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - Om te scrollen moet je eerst de scrollbar vinden met de screenreader, om vervolgens te dubbel tappen langs het scherm om zo over de gehele pagina te scrollen.            
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+ - Headers kloppen niet. De Narrator leest niet op hierarchische wijze de content van de pagina op. 
+- Geen duidelijke focus state voor de screenreader.
+- Teveel items in de Nav, duurt lang om bij de normale content van de pagina te komen.
+- Afbeeldingen hebben soms wel alt-tekst en soms niet.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Oplossing: Stroomlijn de content op de pagina en in de nav. Wat is nodig en wat niet. Ook de hierarchie van de pagina zou aangepast moeten worden om de screenreader op een duidelijke navolgbare manier over de pagina scrollt.
+
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
   
-  De weekday maakt voornamelijk gebruik van een witte rand of zwarte rondom het geselecteerde html element, ook waarneer een afbeelding achter bijv de butten s
+Tab: De website maakt gebruik van een dunne border radius rondom de gefocuste content. Wanneer buttons gefocust zijn komt er een witte lijn omheen die bijna niet te zien is op de witte achtergrond. Ook op groter DOM elementen is de zwarte lijn slecht te zien.
+Oplossing: Geef de border is een duidelijker kleur, maak hem iets dikker en geef de border wellicht opvallende border-style.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  
+Motorisch gezien is deze website prima te gebruiken.
+Er zit veel ruimte tussen de content en dingen zoals buttons en klikbare plaatjes zijn groot
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  De website is nog redelijk goed te gebruiken, omdat er sprake is van grote dikgedrukte letters, grote plaatjes en ook grotere buttons. Maar voor de meer uitgebreide content zoals beschrijvingen van kledingstukken is de leesbaarheid wellicht nog wat laag.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+Oplossing: Geef de letters iets meer ruimte en grote wanneer er sprake is van een uitgebreider stuk tekst.
+
 
 </details>
 
