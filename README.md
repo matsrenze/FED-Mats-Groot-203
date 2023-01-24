@@ -276,13 +276,16 @@ CSS propery
   
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/Detailsfinish.png" width="375px" alt="top">
+  <img src="readme-images/Detailsbar.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
+  
+  Wat mij niet is gelukt is de geavanceerde layout van de website. Hier werd veel javascript gebruikt en ook voor mij nog vrij onontdekte
+  CSS properties zoals positions en grids.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/weekdayfailed.png" width="500px" alt="bummer">
 </details>
 
 
